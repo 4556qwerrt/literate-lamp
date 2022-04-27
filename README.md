@@ -22,5 +22,4 @@
 <p>3.1.	Появление ИТ <A HREF="https://studopedia.net/3_48952_istoriya-vozniknoveniya-informatsionnih-tehnologiy.html">https://studopedia.net/</p></a>
 <p>3.2.	Развитие ИТ <A HREF="https://ya-znau.ru/znaniya/zn/222">https://ya-znau.ru</p></a>
 <p> 3.3.	Этапы <A HREF="https://studopedia.ru/19_420671_etapi-vozniknoveniya-i-razvitiya-informatsionnoy-tehnologii.html">https://studopedia.ru/</p></a>
-</body>
-</HTML>
+
