@@ -2,7 +2,7 @@
 <head> </head> 
 
 <BODY TEXT="000000" BGCOLOR="#9FBCD5" LINK="#0059A3" VLINK="#054451" ALINK="#052A51">
-<CENTER> <H1> Обзор ресурсов интернет </CENTER> </H1> 
+<CENTER> <H1> Обзор ресурсов интернет </H1> 
 
 <p align="left">Выполнила студентка 1 курса
 <p align="left">гуманитарного факультета 
