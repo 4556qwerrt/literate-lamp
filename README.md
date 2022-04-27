@@ -23,3 +23,4 @@
 <p align="left">3.2.	Развитие ИТ <A HREF="https://ya-znau.ru/znaniya/zn/222">https://ya-znau.ru</a>
 <p align="left"> 3.3.	Этапы <A HREF="https://studopedia.ru/19_420671_etapi-vozniknoveniya-i-razvitiya-informatsionnoy-tehnologii.html">https://studopedia.ru/</a>
 
+<p align="left"><A HREF="https://4556qwerrt.github.io/ubiquitous-umbrella/">Вернуться на главную страницу.
